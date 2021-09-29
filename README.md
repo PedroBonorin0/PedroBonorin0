@@ -22,6 +22,7 @@
  :books: <strong>Estudos:</strong>
  <ul>
     <li>Node</li>
+    <li>Express</li>
     <li>React</li>
     <li>Spring</li>
     <li>Docker</li>
