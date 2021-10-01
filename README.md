@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Bem vindo! Meu nome é Pedro Bonorino, sou estudante de <strong>Ciências Exatas</strong> na UFJF com segundo ciclo em <strong>Ciência da Computaçao</strong>.<br>
+  Bem vindo! Meu nome é Pedro Bonorino, sou estudante de <strong>Ciências Exatas</strong> na UFJF com segundo ciclo em <strong>Ciência da Computação</strong>.<br>
   Atualmente trabalho no sistema de monografias do DCC (Departamento de Ciência da Computação) e estudo desenvolvimento web por fora;
 </p>
 
