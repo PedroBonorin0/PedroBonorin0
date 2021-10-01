@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Bem vindo! Meu nome é Pedro Bonorino, sou estudante de <strong>Ciências Exatas</strong> na UFJF com segundo ciclo em <strong>Ciência da Computação</strong>.<br>
-  Atualmente trabalho no sistema de monografias do DCC (Departamento de Ciência da Computação) e estudo desenvolvimento web por fora;
+  Atualmente trabalho no sistema de monografias do DCC (Departamento de Ciência da Computação) e estudo desenvolvimento web;
 </p>
 
 <p align="left">
