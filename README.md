@@ -30,6 +30,7 @@
  📘: <strong>Estudos Futuros:</strong>
  <ul>
    <li>Docker e Kubernetes</li>
+   <li>Cloud</li>
   </ul>
 </p>
 
@@ -38,7 +39,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:pepebonorinobraga@gmail.com?subject=Contato" alt="Gmail">
+  <a href="mailto:pedro.bonorino@gmail.com?subject=Contato" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/pedro-bonorino-65776316b/" alt="Linkedin">
