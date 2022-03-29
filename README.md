@@ -19,11 +19,17 @@
 </p>
 
 <p align="left">
- :books: <strong>Estudos:</strong>
+ :books: <strong>Estudando e desenvolvendo:</strong>
  <ul>
     <li>Node</li>
-    <li>React e Vue</li>
-    <li>Docker</li>
+    <li>Vue</li>
+  </ul>
+</p>
+
+<p align="left">
+ 📘: <strong>Estudos Futuros:</strong>
+ <ul>
+   <li>Docker e Kubernetes</li>
   </ul>
 </p>
 
