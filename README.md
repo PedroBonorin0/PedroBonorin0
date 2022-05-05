@@ -15,6 +15,8 @@
     <li>Java</li>
     <li>C++</li>
     <li>SQL</li>
+    <li>NodeJS</li>
+    <li>VueJS</li>
   </ul>
 </p>
 
