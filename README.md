@@ -1,43 +1,43 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Bem vindo! Meu nome é Pedro Bonorino, sou estudante de <strong>Ciências Exatas</strong> na UFJF com foco em <strong>Ciência da Computação</strong>.<br>
-  Atualmente trabalho no sistema de plano departamental do DCC (Departamento de Ciência da Computação) e estudo desenvolvimento web;
+  Welcome! My name is Pedro Bonorino, started programming in 2019 and today I work as a Web Developer.<br>
+  Currently employed at Tunts.Rocks!:metal:
 </p>
 
 <p align="left">
-  :computer: <strong>Conhecimento:</strong>
+  :iphone: <strong>Frontend:</strong>
   <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>BootStrap</li>
-    <li>JavaScript</li>
-    <li>Java</li>
-    <li>C++</li>
-    <li>SQL</li>
-    <li>NodeJS</li>
+    <li>Angular</li>
     <li>VueJS</li>
   </ul>
 </p>
 
 <p align="left">
- :books: <strong>Estudando e desenvolvendo:</strong>
+ :lock: <strong>Backend:</strong>
  <ul>
-    <li>Node</li>
-    <li>Vue</li>
+    <li>NodeJS</li>
+    <li>SQL & NoSQL</li>
   </ul>
 </p>
 
 <p align="left">
- 📘: <strong>Estudos Futuros:</strong>
+ :books: <strong>Other knowledge:</strong>
  <ul>
-   <li>Docker e Kubernetes</li>
-   <li>Cloud</li>
+   <li>Java</li>
+   <li>C++</li>
   </ul>
 </p>
 
 <p align="left">
- :email: Meus contatos:
+ 📘: <strong>Currently learning:</strong>
+ <ul>
+   <li>Docker & Kubernetes</li>
+  </ul>
+</p>
+
+<p align="left">
+ :email: Contacts:
 </p>
 
 <p align="left">
