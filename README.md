@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Welcome! My name is Pedro Bonorino, started programming in 2019 and today I work as a Web Developer.<br>
-  Currently employed at Tunts.Rocks!:metal:
+  Currently employed at Tunts.Rocks! 🤘
 </p>
 
 <p align="left">
