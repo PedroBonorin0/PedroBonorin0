@@ -6,18 +6,14 @@
 </p>
 
 <p align="left">
-  :iphone: <strong>Frontend:</strong>
+  :computer: <strong>Knowledges:</strong>
   <ul>
-    <li>Angular</li>
-    <li>VueJS</li>
-  </ul>
-</p>
-
-<p align="left">
- :lock: <strong>Backend:</strong>
- <ul>
-    <li>NodeJS</li>
-    <li>SQL & NoSQL</li>
+    <li>Angular 📱</li>
+    <li>VueJS 📱</li>
+    <li>NodeJS 🔒</li>
+    <li>SQL & NoSQL 🔒</li>
+    <li>Docker & Kubernetes ☁️</li>
+    <li>Cypress 🧪</li>
   </ul>
 </p>
 
@@ -26,13 +22,6 @@
  <ul>
    <li>Java</li>
    <li>C++</li>
-  </ul>
-</p>
-
-<p align="left">
- 📘: <strong>Currently learning:</strong>
- <ul>
-   <li>Docker & Kubernetes</li>
   </ul>
 </p>
 
