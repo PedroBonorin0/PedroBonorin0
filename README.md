@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Welcome! My name is Pedro Bonorino, started programming in 2019 and today I work as a Web Developer.<br>
-  Currently employed at Tunts.Rocks! 🤘
+  Welcome! My name is Pedro Bonorino. I Started programming in 2019 and today I work as a Developer.<br>
+  Currently employed at Tekna.Rocks! 🤘
 </p>
 
 <p align="left">
