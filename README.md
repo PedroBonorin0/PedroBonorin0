@@ -8,8 +8,7 @@
 <p align="left">
   :computer: <strong>Knowledges:</strong>
   <ul>
-    <li>Angular 📱</li>
-    <li>VueJS 📱</li>
+    <li>Angular, Vue and React 📱</li>
     <li>NodeJS 🔒</li>
     <li>SQL & NoSQL 🔒</li>
     <li>Docker & Kubernetes ☁️</li>
