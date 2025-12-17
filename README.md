@@ -13,6 +13,7 @@
     <li>SQL & NoSQL 🔒</li>
     <li>Docker & Kubernetes ☁️</li>
     <li>Cypress 🧪</li>
+    <li>AWS ☁️</li>
   </ul>
 </p>
 
